@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+    <properties>
+        <comment>In formato XML...</comment>
+        <entry key="marca">Alfa Romeo</entry>
+        <entry key="modello">Giulia</entry>
+        <entry key="cilindrata">2200</entry>
+        <entry key="cavalli">190</entry>
+    </properties>
